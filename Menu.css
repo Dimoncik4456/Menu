@@ -1,0 +1,15 @@
+body{
+	background-color: forestgreen;
+}
+h1{
+	font-size: 1in;
+	text-align: center;
+	font-family: roboto, sans-serif;
+	color: gold;
+
+}
+img{
+	width: 700px;
+	padding-left: 40px;
+	padding-top: 40px;
+}
